@@ -1,2 +1,2 @@
-# Dairy-Management-Syatem
+# Dairy-Management-System
 This is my 3rd Project of Database Management System Using Java and MySQL, which i have created in 3rd year of IT Engineering as a mini Project.....
